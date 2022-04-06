@@ -1,0 +1,53 @@
+.ADD h1 , .locate h4 , .property-details h5 , .price h1 , .photos-video h3 , .contact h2 {
+    font-size: 25px;
+   margin: 20px 0px ;
+   font-weight: 700;
+}
+.basic h3 i , .locate h4 i , .property-details h5 i , .price h1 i , .contact h2 i{
+    color: orange;
+    font-weight: 300;
+    font-size: 20px;
+}
+.prop-1{
+    color: orange;
+}
+.regiterd h2{
+    font-size: 20px;
+}
+span{
+    color: orange !important;
+}
+.form-check-input:checked {
+    background-color: orange !important;
+    border-color: orange !important ;
+}
+.form-control:focus {
+    border-color: orange !important;
+  box-shadow: none !important;
+}
+.form-check-input:focus {
+    border-color: orange !important;
+    box-shadow: none !important; 
+}
+ul.dropdown-menu {
+    background-color: #000;
+}
+.breadcrumb-item a {
+    color: rgb(192, 192, 192) !important;
+}
+.breadcrumb-item+.breadcrumb-item::before { 
+    color: rgb(192, 192, 192) !important;
+}
+.prop-0 , .locate , .detai , .pri-wrap , .CON {
+    padding: 24px 0px ;
+}
+#btn-back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+  }
+  .ameni , .pet , .discribe {
+     padding-top: 20px ;
+      font-weight: 500;
+  }
